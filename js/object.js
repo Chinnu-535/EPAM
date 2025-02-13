@@ -1,19 +1,19 @@
 // Creating an object
 let person = {
-    name: "John",
-    age: 25,
-    city: "New York"
+    name: "Chinnu",
+    age: 19,
+    city: "Hyderabad"
 };
 
 // Accessing properties
 console.log(person.name); // Output: John
 
 // Modifying properties
-person.age = 26;
+person.age = 20;
 console.log(person.age); // Output: 26
 
 // Adding a new property
-person.country = "USA";
+person.country = "INDIA";
 console.log(person); 
 
 // Looping through an object

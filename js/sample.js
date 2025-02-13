@@ -1,4 +1,4 @@
-var a = "This is String Data Type";
+var a = "String datatype";
 
 console.log(a);
 
